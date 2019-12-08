@@ -2,7 +2,7 @@
 ------------------------------------------------------
 Keeps your passwords safe in a SQLAlchemy database
 ------------------------------------------------------
-Couldnt get venv to upload please pip insatll sqlalchemey.
+Couldnt get venv to upload please pip install sqlalchemey.
 
 There are dummy passwords already loaded.
 
